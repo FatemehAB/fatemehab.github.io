@@ -1,6 +1,6 @@
 ---
 title: Pilot Training with RL
-date: 2022-01-01
+date: 2021-08-01
 tags:
   - Reinforcement Learning
   - PyTorch

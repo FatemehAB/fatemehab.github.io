@@ -73,7 +73,7 @@ work:
     company_name: Intelligent Robot Learning and RLAI Labs, University of Alberta
     company_url: 'https://www.irll.ca/'
     company_logo: ''
-    date_start: 2024-01-01
+    date_start: 2024-03-01
     date_end: ''
     summary: |
       Collaborating on a survey paper describing how RL can benefit from Foundation models.
@@ -81,7 +81,7 @@ work:
     company_name: Fatima Fellowship
     company_url: 'https://www.fatimafellowship.com/'
     company_logo: ''
-    date_start: 2023-01-01
+    date_start: 2023-03-01
     date_end: 2023-12-31
     summary: |
       Collaborated with researchers at MIT to design an incentive mechanism for optimizing residential energy consumption using RL.
@@ -89,7 +89,7 @@ work:
     company_name: Alberta Machine Intelligence Institute (Amii)
     company_url: 'https://www.amii.ca/'
     company_logo: ''
-    date_start: 2023-01-01
+    date_start: 2023-02-01
     date_end: 2023-05-31
     summary: |
       Developed educational content for an NLP course using **Keras**.
@@ -98,7 +98,7 @@ work:
     company_url: 'https://www.irll.ca/'
     company_logo: ''
     date_start: 2020-05-01
-    date_end: 2023-12-31
+    date_end: 2023-02-31
     summary: |
       - Developed POLIS, a coding assistant that improves programs based on desired output or behaviour of the program using bottom-up program synthesis.
       - Designed a Domain Specific Language and implemented an interpreter based on Python interpreter.
@@ -108,7 +108,7 @@ work:
     company_url: 'https://delphitechcorp.com/'
     company_logo: ''
     date_start: 2021-01-01
-    date_end: 2021-05-31
+    date_end: 2021-07-31
     summary: |
       - Collaborated with a team of 3 to implement an RL environment for flight maneuvers in the X-Plane simulator using **Python** and **OpenAI Gym**.
       - Trained an RL agent on flight maneuver tasks using Soft-Actor-Critic implemented in **PyTorch**.
@@ -117,8 +117,8 @@ work:
     company_name: Oxford Machine Learning Summer School (OxML)
     company_url: 'https://www.oxfordml.school/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: 2020-02-28
+    date_start: 2020-07-01
+    date_end: 2020-08-31
     summary: |
       Presented tutorials and managed RL-in-practice sessions with 70+ attendees.
   - position: Graduate Teaching Assistant
@@ -133,8 +133,8 @@ work:
     company_name: Ferdowsi University of Mashhad
     company_url: ''
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: 2020-02-28
+    date_start: 2018-03-01
+    date_end: 2018-12-30
     summary: |
       - Trained a model to predict CO<sub>2</sub> levels at different times of day using time-series data, and visualized the estimated values by an interactive heatmap.
       - Extracted and clustered features from C/C++ code using Code Prover enabling error detection prior to compilation.

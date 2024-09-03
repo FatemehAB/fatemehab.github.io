@@ -1,6 +1,6 @@
 ---
 title: Improving Sarsa(λ) with Modified Eligibility Traces
-date: 2021-01-01
+date: 2020-04-07
 tags:
   - Reinforcement Learning
 featured: true
