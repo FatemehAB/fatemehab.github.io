@@ -36,9 +36,6 @@ sections:
       subtitle: ''
       text: |-
         My primary research interest is in reinforcement learning (RL) and its application to real-world problems. I'm interested in incorporating human feedback into RL systems to better align them with human preferences, and I'm exploring ways to automate this process using large language models (LLMs) as substitutes for direct human input. Additionally, I'm interested in integrating neural networks with symbolic reasoning methods to improve the interpretability and generalizability of RL agents. I believe by combining these approaches, we can develop more effective and understandable RL systems that perform better in complex, real-world scenarios.
-
-        In addition, I'm interested in integrating neural networks, known for their ability to recognize complex patterns in data, with symbolic reasoning systems capable of abstracting higher-level concepts.
-        This integration aims to improve the RL agent's ability to identify logical and hierarchical patterns in complex tasks, thereby increasing clarity, interpretability, and generalizability.
     design:
       columns: '1'
   - block: collection
