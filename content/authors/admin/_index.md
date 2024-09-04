@@ -98,7 +98,7 @@ work:
     company_url: 'https://www.irll.ca/'
     company_logo: ''
     date_start: 2020-05-01
-    date_end: 2023-02-31
+    date_end: 2023-02-28
     summary: |
       - Developed POLIS, a coding assistant that improves programs based on desired output or behaviour of the program using bottom-up program synthesis.
       - Designed a Domain Specific Language and implemented an interpreter based on Python interpreter.
