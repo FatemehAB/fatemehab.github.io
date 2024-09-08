@@ -1,5 +1,5 @@
 ---
-title: Deep Learning for Pneumonia Diagnosis: A Study on Chest X-ray Image Classification
+title: "Deep Learning for Pneumonia Diagnosis: A Study on Chest X-ray Image Classification"
 date: 2019-12-01
 tags:
   - Computer Vision
