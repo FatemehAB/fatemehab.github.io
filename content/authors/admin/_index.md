@@ -77,14 +77,14 @@ work:
     date_end: ''
     summary: |
       Collaborating on a survey paper describing how RL can benefit from Foundation models.
-  - position: Research Scholar
-    company_name: Fatima Fellowship
-    company_url: 'https://www.fatimafellowship.com/'
-    company_logo: ''
-    date_start: 2023-03-01
-    date_end: 2023-12-31
-    summary: |
-      Collaborated with researchers at MIT to design an incentive mechanism for optimizing residential energy consumption using RL.
+#  - position: Research Scholar
+#    company_name: Fatima Fellowship
+#    company_url: 'https://www.fatimafellowship.com/'
+#    company_logo: ''
+#    date_start: 2023-03-01
+#    date_end: 2023-12-31
+#    summary: |
+#      Collaborated with researchers at MIT to design an incentive mechanism for optimizing residential energy consumption using RL.
   - position: Content Development Support
     company_name: Alberta Machine Intelligence Institute (Amii)
     company_url: 'https://www.amii.ca/'
